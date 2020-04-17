@@ -1,5 +1,6 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
+  { :railroads
   # keyword "return." Nice and neat.
 
 end
